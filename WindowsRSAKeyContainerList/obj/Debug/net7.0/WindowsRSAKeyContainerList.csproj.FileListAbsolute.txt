@@ -1,0 +1,14 @@
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\bin\Debug\net7.0\WindowsRSAKeyContainerList.exe
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\bin\Debug\net7.0\WindowsRSAKeyContainerList.deps.json
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\bin\Debug\net7.0\WindowsRSAKeyContainerList.runtimeconfig.json
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\bin\Debug\net7.0\WindowsRSAKeyContainerList.dll
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\bin\Debug\net7.0\WindowsRSAKeyContainerList.pdb
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.AssemblyInfoInputs.cache
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.AssemblyInfo.cs
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.csproj.CoreCompileInputs.cache
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.dll
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\refint\WindowsRSAKeyContainerList.dll
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.pdb
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\WindowsRSAKeyContainerList.genruntimeconfig.cache
+C:\MyGithub\WindowsUtilities\WindowsRSAKeyContainerList\obj\Debug\net7.0\ref\WindowsRSAKeyContainerList.dll
