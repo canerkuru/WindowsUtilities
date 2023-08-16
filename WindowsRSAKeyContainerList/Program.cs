@@ -10,7 +10,7 @@ foreach (var f in files)
         var bytes = File.ReadAllBytes(f);
         var containerName = Encoding.ASCII.GetString(bytes, 40, bytes[8] - 1);
 
-        Console.WriteLine("containerName: " + containerName + " fileName: "+ f);
+        Console.WriteLine(containerName);
     }
     catch (Exception e)
     {

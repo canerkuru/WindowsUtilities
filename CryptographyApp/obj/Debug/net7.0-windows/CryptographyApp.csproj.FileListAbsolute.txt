@@ -1,0 +1,16 @@
+C:\MyGithub\WindowsUtilities\CryptographyApp\bin\Debug\net7.0-windows\CryptographyApp.exe
+C:\MyGithub\WindowsUtilities\CryptographyApp\bin\Debug\net7.0-windows\CryptographyApp.deps.json
+C:\MyGithub\WindowsUtilities\CryptographyApp\bin\Debug\net7.0-windows\CryptographyApp.runtimeconfig.json
+C:\MyGithub\WindowsUtilities\CryptographyApp\bin\Debug\net7.0-windows\CryptographyApp.dll
+C:\MyGithub\WindowsUtilities\CryptographyApp\bin\Debug\net7.0-windows\CryptographyApp.pdb
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.AssemblyInfoInputs.cache
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.AssemblyInfo.cs
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.csproj.CoreCompileInputs.cache
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.dll
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\refint\CryptographyApp.dll
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.pdb
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.genruntimeconfig.cache
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\ref\CryptographyApp.dll
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.Form1.resources
+C:\MyGithub\WindowsUtilities\CryptographyApp\obj\Debug\net7.0-windows\CryptographyApp.csproj.GenerateResource.cache
