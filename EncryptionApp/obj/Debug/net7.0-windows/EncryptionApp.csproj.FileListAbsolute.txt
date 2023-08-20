@@ -1,0 +1,16 @@
+C:\MyGithub\WindowsUtilities\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.exe
+C:\MyGithub\WindowsUtilities\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.deps.json
+C:\MyGithub\WindowsUtilities\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.runtimeconfig.json
+C:\MyGithub\WindowsUtilities\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.dll
+C:\MyGithub\WindowsUtilities\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.pdb
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.Form1.resources
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.csproj.GenerateResource.cache
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.AssemblyInfoInputs.cache
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.AssemblyInfo.cs
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.dll
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\refint\EncryptionApp.dll
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.pdb
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.genruntimeconfig.cache
+C:\MyGithub\WindowsUtilities\EncryptionApp\obj\Debug\net7.0-windows\ref\EncryptionApp.dll
